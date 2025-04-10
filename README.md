@@ -25,16 +25,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 </p>
 
-<div align="center">
-    <td>
-      <br />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=OCTensor&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-</div>
+
 
 <div align="center">
     <td>
